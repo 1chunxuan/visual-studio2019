@@ -1,0 +1,3 @@
+﻿  prac8 sem3.c
+C:\Users\Tang Chun Xuan\source\repos\prac8 sem3\prac8 sem3.c(68,18): warning C4013: 'toupper' undefined; assuming extern returning int
+  prac8 sem3.vcxproj -> C:\Users\Tang Chun Xuan\source\repos\prac8 sem3\Debug\prac8 sem3.exe
