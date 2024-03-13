@@ -1,0 +1,89 @@
+﻿  sem3 assgn.c
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(10,6): error C2065: 'FILE': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(10,10): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(10,6): warning C4552: '*': result of expression not used
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(11,5): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(11,12): warning C4013: 'fopen' undefined; assuming extern returning int
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(12,9): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(12,16): error C2065: 'NULL': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(14,9): warning C4013: 'printf' undefined; assuming extern returning int
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(15,7): warning C4013: 'exit' undefined; assuming extern returning int
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(19,7): warning C4013: 'scanf' undefined; assuming extern returning int
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(27,8): warning C4013: 'rewind' undefined; assuming extern returning int
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(27,14): error C2065: 'stdin': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(33,15): error C2065: 'stdin': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(36,15): error C2065: 'stdin': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(39,15): error C2065: 'stdin': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(42,15): error C2065: 'stdin': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(45,15): error C2065: 'stdin': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(48,15): error C2065: 'stdin': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(51,15): error C2065: 'stdin': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(54,10): warning C4013: 'fprintf' undefined; assuming extern returning int
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(54,13): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(56,15): error C2065: 'stdin': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(59,18): warning C4013: 'toupper' undefined; assuming extern returning int
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(61,8): warning C4013: 'fclose' undefined; assuming extern returning int
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(61,11): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(69,6): error C2065: 'FILE': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(69,10): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(69,6): warning C4552: '*': result of expression not used
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(70,5): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(71,9): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(71,16): error C2065: 'NULL': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(77,15): warning C4013: 'fscanf' undefined; assuming extern returning int
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(77,18): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(77,219): error C2065: 'EOF': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(83,14): error C2065: 'stdin': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(88,14): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(98,15): error C2065: 'stdin': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(102,11): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(110,6): error C2065: 'FILE': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(110,10): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(110,17): error C2065: 'fp1': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(110,12): error C2100: illegal indirection
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(111,5): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(112,9): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(112,16): error C2065: 'NULL': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(126,18): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(126,219): error C2065: 'EOF': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(132,14): error C2065: 'stdin': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(157,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(167,17): error C2065: 'stdin': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(175,15): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(182,15): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(190,15): error C2065: 'stdin': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(200,11): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(206,6): error C2065: 'FILE': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(206,10): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(206,6): warning C4552: '*': result of expression not used
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(207,5): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(208,9): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(208,16): error C2065: 'NULL': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(215,18): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(215,198): error C2065: 'EOF': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(219,11): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(224,6): error C2065: 'FILE': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(224,12): error C2065: 'fptr': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(224,6): warning C4552: '*': result of expression not used
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(225,7): error C2065: 'fptr': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(229,15): error C2065: 'stdin': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(232,15): error C2065: 'fptr': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(235,15): error C2065: 'stdin': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(226,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [1]'
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(245,6): error C2065: 'FILE': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(245,10): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(245,6): warning C4552: '*': result of expression not used
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(246,5): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(247,9): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(247,16): error C2065: 'NULL': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(253,14): error C2065: 'stdin': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(256,18): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(256,219): error C2065: 'EOF': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(271,17): error C2065: 'stdin': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(276,12): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(280,31): warning C4047: '=': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(281,32): warning C4047: '=': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(282,33): warning C4047: '=': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(284,15): error C2065: 'fp': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(295,15): error C2065: 'stdin': undeclared identifier
+C:\Users\Tang Chun Xuan\source\repos\sem3 assgn\sem3 assgn.c(299,11): error C2065: 'fp': undeclared identifier
