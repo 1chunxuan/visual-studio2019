@@ -1,0 +1,106 @@
+
+		found = 0;//no record match yet
+
+		printf("\tId\ttypes\tdescription\tVenue\tMaximum allowable user\tOpen time\tClose time\n");
+		printf("\t==\t=====\t===========\t=====\t======================\t=========\t==========\n");
+
+		for (i = 0; i < pCount; i++)
+		{
+			if (strcmp(prodCode, p[i].code) == 0)
+			{
+				found = 1;//record match
+
+				printf("\t%-18s %-10d %-26s \n", p[i].code, p[i].expiryYear, p[i].country);
+
+				printf("\nUpdated year:");
+				scanf("%d", &updId);
+
+				printf("\nConfirm to modify(Y=yes)?");
+				rewind(stdin);
+				scanf("%c", &ans);
+
+				if (toupper(ans) == 'Y')
+				{
+					p[i].expiryYear = updYear;
+					strcpy(p[i].country, country);
+					modiCount++;
+				}
+				printf("\nUpdated Record");
+				printf("\tProduct Code\tExpiry Date\tCountry\n");
+				printf("\t============\t===========\t=======\n");
+				printf("\t%-18s %-10d %-26s\n", p[i].code, p[i].expiryYear, p[i].country);
+			}
+		}
+		if (!found)//found=0
+		{
+			printf("\no product match the code %s\n", prodCode);
+		}
+
+		printf("\nAny more records to modify(y=yes)?");
+		rewind(stdin);
+		scanf("%c", &cont);
+	} while (toupper(cont) == 'Y');
+
+	fp = fopen("product.dat", "wb");
+	for (i = 0; i < pCount; i++)
+	{
+		fwrite(&p[i], sizeof(Product), 1, fp);
+	}
+
+
+
+
+if (strcmp(facility.facId, "KA1") == 0)
+		  {
+			printf("\tId\ttypes\tdescription\tVenue\tMaximum allowable user\tOpen time\tClose time\n");
+			printf("\t==\t=====\t===========\t=====\t======================\t=========\t==========\n");
+			printf("\tKA1\tKaraoke\tKaraoke Room1\tMain Block\t10\t1400\t2400\n");
+		  }
+		  else if (strcmp(facility.facId, "ST1") == 0)
+		  {
+			printf("\tId\ttypes\tdescription\tVenue\tMaximum allowable user\tOpen time\tClose time\n");
+			printf("\t==\t=====\t===========\t=====\t======================\t=========\t==========\n");
+			printf("ST1|Snooker Table|Snooker Table Room1|Main Block|10|1400|2400");
+		  }
+		  else if (strcmp(facility.facId, "TT1") == 0)
+		  {
+			  printf("\tId\ttypes\tdescription\tVenue\tMaximum allowable user\tOpen time\tClose time\n");
+			  printf("\t==\t=====\t===========\t=====\t======================\t=========\t==========\n");
+			  printf("TT1|Table Tennis|Table Tennis Room1|Main Block|4|900|2200");
+		  }
+		  else if (strcmp(facility.facId, "SC1") == 0)
+		  {
+			  printf("\tId\ttypes\tdescription\tVenue\tMaximum allowable user\tOpen time\tClose time\n");
+			  printf("\t==\t=====\t===========\t=====\t======================\t=========\t==========\n");
+			  printf("SC1|Squash Court|Squash Court Room1|Second Block|4|1000|2200");
+		  }
+		  else if (strcmp(facility.facId, "GM1") == 0)
+		  {
+			  printf("\tId\ttypes\tdescription\tVenue\tMaximum allowable user\tOpen time\tClose time\n");
+			  printf("\t==\t=====\t===========\t=====\t======================\t=========\t==========\n");
+			  printf("GM1|Gymnasium|Gymnasium Room1|Third Block|20|1000|2000");
+		  }
+		  else if (strcmp(facility.facId, "BC1") == 0)
+		  {
+			  printf("\tId\ttypes\tdescription\tVenue\tMaximum allowable user\tOpen time\tClose time\n");
+			  printf("\t==\t=====\t===========\t=====\t======================\t=========\t==========\n");
+			  printf("BC1|Basketball Court|Basketball Court1|Third Block|16|900|2400");
+		  }
+		  else if (strcmp(facility.facId, "CR1") == 0)
+		  {
+			  printf("\tId\ttypes\tdescription\tVenue\tMaximum allowable user\tOpen time\tClose time\n");
+			  printf("\t==\t=====\t===========\t=====\t======================\t=========\t==========\n");
+			  printf("CR1|Computer Room|Computer Room1|Second Block|20|1000|2200");
+		  }
+		  else if (strcmp(facility.facId, "PK1") == 0)
+		  {
+			  printf("\tId\ttypes\tdescription\tVenue\tMaximum allowable user\tOpen time\tClose time\n");
+			  printf("\t==\t=====\t===========\t=====\t======================\t=========\t==========\n");
+			  printf("PK1|Park|Park1|Second Block|50|900|2200");
+		  }
+		  else if (strcmp(facility.facId, "GY1") == 0)
+		  {
+			  printf("\tId\ttypes\tdescription\tVenue\tMaximum allowable user\tOpen time\tClose time\n");
+			  printf("\t==\t=====\t===========\t=====\t======================\t=========\t==========\n");
+			  printf("GY1|Gym|Gym Room1|Main Block|10|900|2200");
+		  }

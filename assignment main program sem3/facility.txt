@@ -1,0 +1,2 @@
+KA1|Karaoke|Karaoke Room1|Main Block|10|1400|2400
+ST2|SNooker table|Snooker Table1|Main Block|6|1200|2300

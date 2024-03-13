@@ -1,0 +1,26 @@
+﻿  assignment sem3.c
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(20,7): warning C4013: 'exit' undefined; assuming extern returning int
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(64,17): warning C4013: 'toupper' undefined; assuming extern returning int
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(95,12): warning C4477: 'printf' : format string '%02d' requires an argument of type 'int', but variadic argument 4 has type 'char *'
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(95,196): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(95,196): message : placeholders and their parameters expect 6 variadic arguments, but 7 were provided
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(73,20): warning C4101: 'ans': unreferenced local variable
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(156,261): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(156,228): warning C4024: 'strcmp': different types for formal and actual parameter 2
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(158,12): warning C4477: 'printf' : format string '%02d' requires an argument of type 'int', but variadic argument 4 has type 'char *'
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(158,196): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(158,196): message : placeholders and their parameters expect 6 variadic arguments, but 7 were provided
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(178,12): warning C4477: 'printf' : format string '%02d' requires an argument of type 'int', but variadic argument 4 has type 'char *'
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(178,196): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(178,196): message : placeholders and their parameters expect 6 variadic arguments, but 7 were provided
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(110,11): warning C4101: 'updId': unreferenced local variable
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(216,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [1]'
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(255,12): warning C4477: 'printf' : format string '%02d' requires an argument of type 'int', but variadic argument 4 has type 'char *'
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(255,196): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(255,196): message : placeholders and their parameters expect 6 variadic arguments, but 7 were provided
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(266,30): warning C4047: '=': 'int' differs in levels of indirection from 'char [1]'
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(267,31): warning C4047: '=': 'int' differs in levels of indirection from 'char [1]'
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(268,32): warning C4047: '=': 'int' differs in levels of indirection from 'char [1]'
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(231,23): warning C4101: 'UpdCloseTime': unreferenced local variable
+C:\Users\Tang Chun Xuan\source\repos\assignment sem3\assignment sem3.c(231,10): warning C4101: 'UpdOpenTime': unreferenced local variable
+  assignment sem3.vcxproj -> C:\Users\Tang Chun Xuan\source\repos\assignment sem3\Debug\assignment sem3.exe

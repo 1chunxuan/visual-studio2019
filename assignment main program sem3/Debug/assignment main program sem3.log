@@ -1,0 +1,33 @@
+﻿  assignemnt main program sem3.c
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(131,21): warning C4101: 'ans': unreferenced local variable
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(220,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(173,12): warning C4101: 'fp1': unreferenced local variable
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(171,104): warning C4101: 'opTime': unreferenced local variable
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(172,12): warning C4101: 'updId': unreferenced local variable
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(171,112): warning C4101: 'cloTime': unreferenced local variable
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(171,95): warning C4101: 'maxUser': unreferenced local variable
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(172,32): warning C4101: 'types': unreferenced local variable
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(172,43): warning C4101: 'description': unreferenced local variable
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(172,60): warning C4101: 'venue': unreferenced local variable
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(295,16): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(289,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [1]'
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(343,31): warning C4047: '=': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(344,32): warning C4047: '=': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(345,33): warning C4047: '=': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(306,26): warning C4101: 'UpdCloseTime': unreferenced local variable
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(306,13): warning C4101: 'UpdOpenTime': unreferenced local variable
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(484,47): warning C4101: 'IcNo': unreferenced local variable
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(572,36): warning C4101: 'found': unreferenced local variable
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(866,10): warning C4098: 'bookingAddNew': 'void' function returning a value
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(898,11): warning C4098: 'bookingMod': 'void' function returning a value
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(985,10): warning C4098: 'bookingMod': 'void' function returning a value
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(1010,8): warning C4477: 'scanf' : format string '%[^\n]' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(1047,10): warning C4098: 'bookingSrch': 'void' function returning a value
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(1103,10): warning C4098: 'bookingDis': 'void' function returning a value
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(1114,12): warning C4101: 'TD': unreferenced local variable
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(1113,14): warning C4101: 'BT': unreferenced local variable
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(1111,7): warning C4101: 'Dt': unreferenced local variable
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(1162,10): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(1163,10): warning C4129: '_': unrecognized character escape sequence
+C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\assignemnt main program sem3.c(1165,10): warning C4129: ' ': unrecognized character escape sequence
+  assignment main program sem3.vcxproj -> C:\Users\Tang Chun Xuan\source\repos\assignment main program sem3\Debug\assignment main program sem3.exe

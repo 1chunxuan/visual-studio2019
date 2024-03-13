@@ -1,0 +1,9 @@
+KA1 Karaoke Karaoke Room1 Main Block 10 1400 2400
+ST1 Snooker Snooker Table1 Main Block 10 1400 2400
+GM1 Gymnasium Gymnasium Room1 Third Block 20 1000 2000
+TT1 Table Tennis Table tennis Room1 Main Block 4 0900 2200
+SC1 Squash Court Squash Court1 Second Block 4 1000 2200
+BC1 Basketball Court Basketball Court1 Third Block 16 0900 2400
+CR1 Computer Room Computer Room1 Second Block 20 1000 2200
+PK1 Park Park1 Second Block 50 0900 2200
+GY1|Gym|Gym Room1|Main Block|10|0900|2200
