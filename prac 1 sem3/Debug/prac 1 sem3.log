@@ -1,0 +1,22 @@
+﻿  prac1 sem3.c
+C:\Users\Tang Chun Xuan\source\repos\prac 1 sem3\prac1 sem3.c(84,2): error C2371: 'BookInventory': redefinition; different basic types
+C:\Users\Tang Chun Xuan\source\repos\prac 1 sem3\prac1 sem3.c(60): message : see declaration of 'BookInventory'
+C:\Users\Tang Chun Xuan\source\repos\prac 1 sem3\prac1 sem3.c(115,2): error C2371: 'BookInventory': redefinition; different basic types
+C:\Users\Tang Chun Xuan\source\repos\prac 1 sem3\prac1 sem3.c(60): message : see declaration of 'BookInventory'
+C:\Users\Tang Chun Xuan\source\repos\prac 1 sem3\prac1 sem3.c(117,20): error C2011: 'Transaction': 'struct' type redefinition
+C:\Users\Tang Chun Xuan\source\repos\prac 1 sem3\prac1 sem3.c(86): message : see declaration of 'Transaction'
+C:\Users\Tang Chun Xuan\source\repos\prac 1 sem3\prac1 sem3.c(140,8): warning C4477: 'scanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+C:\Users\Tang Chun Xuan\source\repos\prac 1 sem3\prac1 sem3.c(142,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+C:\Users\Tang Chun Xuan\source\repos\prac 1 sem3\prac1 sem3.c(164,2): error C2371: 'BookInventory': redefinition; different basic types
+C:\Users\Tang Chun Xuan\source\repos\prac 1 sem3\prac1 sem3.c(60): message : see declaration of 'BookInventory'
+C:\Users\Tang Chun Xuan\source\repos\prac 1 sem3\prac1 sem3.c(166,20): error C2011: 'Transaction': 'struct' type redefinition
+C:\Users\Tang Chun Xuan\source\repos\prac 1 sem3\prac1 sem3.c(86): message : see declaration of 'Transaction'
+C:\Users\Tang Chun Xuan\source\repos\prac 1 sem3\prac1 sem3.c(189,8): warning C4477: 'scanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+C:\Users\Tang Chun Xuan\source\repos\prac 1 sem3\prac1 sem3.c(191,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+C:\Users\Tang Chun Xuan\source\repos\prac 1 sem3\prac1 sem3.c(217,2): error C2371: 'BookInventory': redefinition; different basic types
+C:\Users\Tang Chun Xuan\source\repos\prac 1 sem3\prac1 sem3.c(60): message : see declaration of 'BookInventory'
+C:\Users\Tang Chun Xuan\source\repos\prac 1 sem3\prac1 sem3.c(219,20): error C2011: 'Transaction': 'struct' type redefinition
+C:\Users\Tang Chun Xuan\source\repos\prac 1 sem3\prac1 sem3.c(86): message : see declaration of 'Transaction'
+C:\Users\Tang Chun Xuan\source\repos\prac 1 sem3\prac1 sem3.c(242,8): warning C4477: 'scanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+C:\Users\Tang Chun Xuan\source\repos\prac 1 sem3\prac1 sem3.c(247,9): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+C:\Users\Tang Chun Xuan\source\repos\prac 1 sem3\prac1 sem3.c(266,9): warning C4477: 'scanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int'

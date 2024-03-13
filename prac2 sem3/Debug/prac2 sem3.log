@@ -1,0 +1,13 @@
+﻿  prac2 sem3.c
+C:\Users\Tang Chun Xuan\source\repos\prac2 sem3\prac2 sem3.c(40,10): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\Tang Chun Xuan\source\repos\prac2 sem3\prac2 sem3.c(40,10): message : placeholders and their parameters expect 4 variadic arguments, but 1 were provided
+C:\Users\Tang Chun Xuan\source\repos\prac2 sem3\prac2 sem3.c(40,10): message : the missing variadic argument 2 is required by format string '%-30s'
+C:\Users\Tang Chun Xuan\source\repos\prac2 sem3\prac2 sem3.c(94,10): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\Tang Chun Xuan\source\repos\prac2 sem3\prac2 sem3.c(94,10): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\Tang Chun Xuan\source\repos\prac2 sem3\prac2 sem3.c(94,10): message : the missing variadic argument 1 is required by format string '%-30s'
+C:\Users\Tang Chun Xuan\source\repos\prac2 sem3\prac2 sem3.c(173,10): warning C4476: 'printf' : unknown type field character 'D' in format specifier
+C:\Users\Tang Chun Xuan\source\repos\prac2 sem3\prac2 sem3.c(173,69): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Tang Chun Xuan\source\repos\prac2 sem3\prac2 sem3.c(173,69): message : placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+C:\Users\Tang Chun Xuan\source\repos\prac2 sem3\prac2 sem3.c(178,18): warning C4013: 'toupper' undefined; assuming extern returning int
+C:\Users\Tang Chun Xuan\source\repos\prac2 sem3\prac2 sem3.c(255,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+  prac2 sem3.vcxproj -> C:\Users\Tang Chun Xuan\source\repos\prac2 sem3\Debug\prac2 sem3.exe
