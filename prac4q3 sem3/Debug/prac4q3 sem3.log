@@ -1,0 +1,8 @@
+﻿  prac4q3 sem3.c
+C:\Users\Tang Chun Xuan\source\repos\prac4q3 sem3\prac4q3 sem3.c(22,7): warning C4013: 'exit' undefined; assuming extern returning int
+C:\Users\Tang Chun Xuan\source\repos\prac4q3 sem3\prac4q3 sem3.c(29,16): warning C4013: 'toupper' undefined; assuming extern returning int
+C:\Users\Tang Chun Xuan\source\repos\prac4q3 sem3\prac4q3 sem3.c(36,9): warning C4129: ']': unrecognized character escape sequence
+C:\Users\Tang Chun Xuan\source\repos\prac4q3 sem3\prac4q3 sem3.c(36,9): warning C4778: 'scanf' : unterminated format string '%[^]'
+C:\Users\Tang Chun Xuan\source\repos\prac4q3 sem3\prac4q3 sem3.c(36,22): warning C4474: 'scanf' : too many arguments passed for format string
+C:\Users\Tang Chun Xuan\source\repos\prac4q3 sem3\prac4q3 sem3.c(36,22): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  prac4q3 sem3.vcxproj -> C:\Users\Tang Chun Xuan\source\repos\prac4q3 sem3\Debug\prac4q3 sem3.exe
