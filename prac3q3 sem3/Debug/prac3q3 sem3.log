@@ -1,0 +1,4 @@
+﻿  p3q3 sem3.c
+C:\Users\Tang Chun Xuan\OneDrive\Desktop\prac 3\prac3q3 sem3\p3q3 sem3.c(58,16): warning C4013: 'toupper' undefined; assuming extern returning int
+C:\Users\Tang Chun Xuan\OneDrive\Desktop\prac 3\prac3q3 sem3\p3q3 sem3.c(103,14): warning C4013: 'isalpha' undefined; assuming extern returning int
+  prac3q3 sem3.vcxproj -> C:\Users\Tang Chun Xuan\OneDrive\Desktop\prac 3\prac3q3 sem3\Debug\prac3q3 sem3.exe
